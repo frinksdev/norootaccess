@@ -1,0 +1,2 @@
+# norootaccess
+for the blog
